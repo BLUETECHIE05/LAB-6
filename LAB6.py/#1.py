@@ -1,7 +1,6 @@
 char = input("Enter the string : ")
 consonant = ['B','C','D','F','G','H','J','K','L','M','N','P','Q','R','S','T','V','W','X','Y','Z']
 VOWELS = ['A','E','I','O','U']
-#consonant=str(consonant)
 consonant_i = 0
 VOWELS_i = 0
 for i in char:
